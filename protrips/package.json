@@ -2,7 +2,7 @@
   "name": "protrips",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rohit-banik.github.io/lab-react-pronutrition",
+  "homepage": "https://rohit-banik.github.io/react-protrips",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
